@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/0almeida/count.svg" />
 </p>
 
- ![Snake animation](https://github.com/0almeida/0almeida/blob/output/github-contribution-grid-snake.svg)
+
