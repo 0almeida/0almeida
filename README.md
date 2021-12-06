@@ -28,5 +28,5 @@ Here are some ideas to get you started:
  
 ![Snake animation](https://github.com/0almeida/0almeida/blob/output/github-contribution-grid-snake.svg)
 <p align="center"> Visitors</p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/0almeida/count.svg" /></p>
 
