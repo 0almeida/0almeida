@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:computer: I'm Junior Front-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books:I'm currently a student of systems analysis and development.
+
+## About me
+![vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=0almeida&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0almeida&layout=compact&theme=midnight-purple)](https://github.com/0almeida/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=midnight-purple)](https://github.com/0almeida/github-readme-stats)
+![linkedin 23](https://user-images.githubusercontent.com/73404432/144768629-b1d00ca9-c9cc-4c22-b7a3-885cf9b87a99.png)
+
+
+
