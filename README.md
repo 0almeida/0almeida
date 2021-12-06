@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0almeida&layout=compact&theme=midnight-purple)](https://github.com/0almeida/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=midnight-purple)](https://github.com/0almeida/github-readme-stats)
 ![linkedin 23](https://user-images.githubusercontent.com/73404432/144768629-b1d00ca9-c9cc-4c22-b7a3-885cf9b87a99.png)
- <p align="center"></p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
- ![Snake animation](https://github.com/0almeida/0almeida/blob/output/github-contribution-grid-snake.svg)
-
-
+  ![Snake animation](https://github.com/0almeida/0almeida/blob/output/github-contribution-grid-snake.svg)
+<p align="center"> Visitors</p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/0almeida/count.svg" /></p>
 
