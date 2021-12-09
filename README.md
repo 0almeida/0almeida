@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## About me
 <a href ="https://www.linkedin.com/in/-almeida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
 <a href = "https://www.behance.net/almeida-"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /> </a>
-<a hef="https://linktr.ee/0almeida"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+<a href="https://linktr.ee/0almeida"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 
 ![vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=0almeida&show_icons=true&theme=midnight-purple)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0almeida&layout=compact&theme=midnight-purple)](https://github.com/0almeida/github-readme-stats)
 ![linkedin 23](https://user-images.githubusercontent.com/73404432/144768629-b1d00ca9-c9cc-4c22-b7a3-885cf9b87a99.png)
